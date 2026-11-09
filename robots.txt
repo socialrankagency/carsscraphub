@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /404.html
-Disallow: /en/404.html
-
-Sitemap: https://carsscraphub.com/sitemap.xml
